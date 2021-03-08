@@ -16,6 +16,8 @@ with false positive rate of 1\% and false negative rate of 4\%.
 ### Analysis Results
 We have seen a fast growth of vulnerabilities in recent years.
 ![Yearly reported control logic related CVEs](https://github.com/gracesrm/PLC-control-logic-CVE/blob/master/fig/Common_CVE.pdf)
+![image](https://github.com/gracesrm/PLC-control-logic-CVE/blob/master/fig/Common_CVE.pdf)
+
 
 ![The type of CWEs and their corresponding number reported per year](https://github.com/gracesrm/PLC-control-logic-CVE/blob/master/fig/Common_CWE.pdf)
 

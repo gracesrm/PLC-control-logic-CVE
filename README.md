@@ -16,13 +16,11 @@ with false positive rate of 1\% and false negative rate of 4\%.
 ### Analysis Results
 We have seen a fast growth of vulnerabilities in recent years.
 ![Yearly reported control logic related CVEs](https://github.com/gracesrm/PLC-control-logic-CVE/blob/master/fig/Common_CVE.pdf)
-![image](https://github.com/gracesrm/PLC-control-logic-CVE/blob/master/fig/Common_CVE.pdf)
-
 
 ![The type of CWEs and their corresponding number reported per year](https://github.com/gracesrm/PLC-control-logic-CVE/blob/master/fig/Common_CWE.pdf)
 
 Figure below shows the CVSS scores from both version 2 and version 3.
-![The complexity of control logic related CVEs, depicted with the mean and the standard deviation of CVSS scores. Some points are missing as they are not reported in the databases](https://github.com/gracesrm/PLC-control-logic-CVE/blob/master/fig/Common_CVSS.pdf)
+![The complexity of control logic related CVEs, depicted with the mean and the standard deviation of CVSS scores.](https://github.com/gracesrm/PLC-control-logic-CVE/blob/master/fig/Common_CVSS.pdf) Some points are missing as they are not reported in the databases.
 
 For these reported CVEs, we also analyzed the top ten most affected vendors, as the following figure shows. 
 ![Notable PLC vendors and number of related control logic vulnerabilities reported per year](https://github.com/gracesrm/PLC-control-logic-CVE/blob/master/fig/Common_Vendor.pdf)

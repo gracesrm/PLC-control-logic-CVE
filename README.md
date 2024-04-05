@@ -28,3 +28,15 @@ For these reported CVEs, we also analyzed the top ten most affected vendors, as 
 ### Limitation
 This framework may detect control logic vulnerabilities false positively. For example, 
 a buffer overflow in a HMI binary that allows for remote code execution of a control program. 
+
+### Citing our paper
+```bibtex
+@inproceedings{sun2021sok,
+  title={SoK: Attacks on industrial control logic and formal verification-based defenses},
+  author={Sun, Ruimin and Mera, Alejandro and Lu, Long and Choffnes, David},
+  booktitle={2021 IEEE European Symposium on Security and Privacy (EuroS\&P)},
+  pages={385--402},
+  year={2021},
+  organization={IEEE}
+}
+```
